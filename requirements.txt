@@ -1,0 +1,24 @@
+streamlit==1.26.0
+torch==2.1.0
+sentence-transformers==2.2.2
+transformers==4.41.0
+PyPDF2==3.1.1
+numpy==1.26.0
+regex==2025.9.15
+
+
+Notes:
+
+streamlit → For the web UI.
+
+torch → Backend for sentence-transformers and Hugging Face models.
+
+sentence-transformers → For semantic embeddings and similarity matching.
+
+transformers → For Hugging Face QA model (distilbert-base-uncased).
+
+PyPDF2 → PDF reading and text extraction.
+
+numpy → Required by sentence-transformers.
+
+regex → Handles advanced text splitting and regex operations.
