@@ -15,8 +15,10 @@ numpy==1.26.0
 regex>=2023.1.0,<2025.0.0
 rich
 
+huggingface_hub==0.17.4
 
 # Optional: if you use logging or other standard Python libraries, no need to include them
+
 
 
 
