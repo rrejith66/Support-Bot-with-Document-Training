@@ -134,5 +134,5 @@ Support-Bot-with-Document-Training/
 - **This project is open-source for demonstration purposes.**
 
 ## Author
-** Rejith R**
+**Rejith R**
 [LinkedIn](https://www.linkedin.com/in/rrejith) 
