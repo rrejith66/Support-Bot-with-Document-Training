@@ -3,7 +3,6 @@ torch==2.1.0
 sentence-transformers==2.2.2
 transformers==4.41.0
 PyPDF2==3.1.1
-numpy==1.26.0
 
 
 Notes:
@@ -21,4 +20,3 @@ PyPDF2 → PDF reading and text extraction.
 numpy → Required by sentence-transformers.
 
 
-regex → Handles advanced text splitting and regex operations.
