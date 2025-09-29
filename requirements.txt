@@ -4,7 +4,6 @@ sentence-transformers==2.2.2
 transformers==4.41.0
 PyPDF2==3.1.1
 numpy==1.26.0
-regex==2025.9.15
 
 
 Notes:
@@ -20,5 +19,6 @@ transformers → For Hugging Face QA model (distilbert-base-uncased).
 PyPDF2 → PDF reading and text extraction.
 
 numpy → Required by sentence-transformers.
+
 
 regex → Handles advanced text splitting and regex operations.
