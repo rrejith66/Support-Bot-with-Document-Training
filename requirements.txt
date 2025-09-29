@@ -1,4 +1,5 @@
 # Core
+# Streamlit
 streamlit==1.26.0
 
 # NLP / Embeddings
@@ -6,13 +7,16 @@ torch==2.1.0
 sentence-transformers==2.2.2
 transformers==4.41.0
 
-# PDF handling
+# PDF processing
 PyPDF2>=3.0.0,<3.2.0
 
 # Utilities
 numpy==1.26.0
-regex==2025.9.15
+regex>=2023.1.0,<2025.0.0
+rich
+
 
 # Optional: if you use logging or other standard Python libraries, no need to include them
+
 
 
