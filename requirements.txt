@@ -7,11 +7,12 @@ sentence-transformers==2.2.2
 transformers==4.41.0
 
 # PDF handling
-PyPDF2==3.1.1
+PyPDF2>=3.0.0,<3.2.0
 
 # Utilities
 numpy==1.26.0
 regex==2025.9.15
 
 # Optional: if you use logging or other standard Python libraries, no need to include them
+
 
