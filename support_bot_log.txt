@@ -1,0 +1,368 @@
+2025-09-29 18:58:29,273 | INFO | Use pytorch device_name: cpu
+2025-09-29 18:58:29,275 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 18:58:45,655 | INFO | Bot initialized with document
+2025-09-29 19:00:12,853 | INFO | User: How to reset the Password?
+2025-09-29 19:00:12,853 | INFO | Bot: text
+ 
+CollapseWrapCopy (Confidence: 1.06)
+2025-09-29 19:00:12,853 | INFO | Feedback: too vague
+2025-09-29 19:03:07,694 | INFO | User: What are the steps to reset my account password in the support portal?
+2025-09-29 19:03:07,694 | INFO | Bot: installing
+ 
+dependencies (Confidence: 0.69)
+2025-09-29 19:03:07,694 | INFO | Feedback: too vague
+2025-09-29 19:08:48,855 | INFO | Use pytorch device_name: cpu
+2025-09-29 19:08:48,855 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 19:08:54,216 | INFO | Bot initialized with document
+2025-09-29 19:08:59,851 | INFO | User: How to reset my password?
+2025-09-29 19:08:59,851 | INFO | Bot: Password (Confidence: 0.94)
+2025-09-29 19:08:59,851 | INFO | Feedback: good
+2025-09-29 19:13:46,021 | INFO | Use pytorch device_name: cpu
+2025-09-29 19:13:46,021 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 19:13:51,655 | INFO | Bot initialized with document
+2025-09-29 19:13:58,769 | INFO | User: How to reset the Password?
+2025-09-29 19:13:58,769 | INFO | Bot: Password (Confidence: 0.88)
+2025-09-29 19:14:26,899 | INFO | User: What are the Notes for the Engineer ?
+2025-09-29 19:14:26,899 | INFO | Bot: Engineer
+ 
+\u25cf (Confidence: 0.64)
+2025-09-29 19:15:40,669 | INFO | Use pytorch device_name: cpu
+2025-09-29 19:15:40,669 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 19:15:45,059 | INFO | Bot initialized with document
+2025-09-29 19:15:59,064 | INFO | Feedback: too vague
+2025-09-29 23:08:12,820 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:08:12,820 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:08:18,037 | INFO | Bot initialized with document
+2025-09-29 23:08:26,359 | INFO | Feedback: good
+2025-09-29 23:11:14,641 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:11:14,641 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:11:19,269 | INFO | Bot initialized with document
+2025-09-29 23:13:28,638 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:13:28,638 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:13:34,204 | INFO | Bot initialized with document
+2025-09-29 23:13:45,647 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:13:45,647 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:13:51,731 | INFO | Bot initialized with document
+2025-09-29 23:13:55,953 | INFO | Feedback: not helpful
+2025-09-29 23:27:19,220 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:27:19,220 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:27:24,443 | INFO | Bot initialized with document
+2025-09-29 23:27:41,590 | INFO | Feedback: good
+2025-09-29 23:33:01,920 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:33:01,920 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:33:07,219 | INFO | Bot initialized with document
+2025-09-29 23:33:28,054 | INFO | Feedback: too vague
+2025-09-29 23:40:20,061 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:40:20,061 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:40:27,941 | INFO | Bot initialized with document
+2025-09-29 23:41:17,492 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:41:17,492 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:41:25,107 | INFO | Bot initialized with document
+2025-09-29 23:41:36,537 | INFO | Feedback: good
+2025-09-29 23:41:47,371 | INFO | Feedback: not helpful
+2025-09-29 23:44:13,091 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:44:13,091 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:44:18,562 | INFO | Bot initialized with document
+2025-09-29 23:44:40,090 | INFO | Found relevant section for query: how to reset the password?
+2025-09-29 23:44:40,091 | INFO | Feedback: not helpful
+2025-09-29 23:44:40,103 | INFO | Found relevant section for query: how to reset the password?
+2025-09-29 23:57:53,236 | INFO | Use pytorch device_name: cpu
+2025-09-29 23:57:53,237 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 23:57:59,047 | INFO | Bot initialized with document
+2025-09-29 23:58:11,596 | INFO | Feedback: good
+2025-09-29 23:58:45,766 | INFO | Feedback: good
+2025-09-29 23:59:05,804 | INFO | Feedback: good
+2025-09-29 23:59:35,443 | INFO | Feedback: good
+2025-09-29 23:59:52,239 | INFO | Feedback: too vague
+2025-09-30 00:00:08,717 | INFO | Feedback: too vague
+2025-09-30 00:00:17,460 | INFO | Feedback: good
+2025-09-30 00:00:42,225 | INFO | Feedback: good
+2025-09-30 00:00:54,035 | INFO | Feedback: good
+2025-09-30 00:07:40,037 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:07:40,038 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:07:45,118 | INFO | Bot initialized with document
+2025-09-30 00:17:56,214 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:17:56,214 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:18:01,972 | INFO | Bot initialized with document
+2025-09-30 00:18:22,856 | INFO | Feedback: good
+2025-09-30 00:18:36,293 | INFO | Feedback: good
+2025-09-30 00:18:46,904 | INFO | Feedback: good
+2025-09-30 00:19:04,174 | INFO | Feedback: good
+2025-09-30 00:19:11,381 | INFO | Feedback: good
+2025-09-30 00:19:23,774 | INFO | Feedback: good
+2025-09-30 00:19:49,835 | INFO | Feedback: good
+2025-09-30 00:26:43,248 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:26:43,248 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:26:47,944 | INFO | Bot initialized with document
+2025-09-30 00:26:58,258 | INFO | Feedback: good
+2025-09-30 00:27:24,317 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:27:24,317 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:27:29,097 | INFO | Bot initialized with document
+2025-09-30 00:27:29,200 | INFO | Feedback: good
+2025-09-30 00:27:33,921 | INFO | Feedback: good
+2025-09-30 00:27:51,460 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:27:51,460 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:27:56,645 | INFO | Bot initialized with document
+2025-09-30 00:28:01,411 | INFO | Feedback: good
+2025-09-30 00:30:50,139 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:30:50,139 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:35:08,565 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:35:08,565 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:35:13,369 | INFO | Bot initialized with document
+2025-09-30 00:35:17,509 | INFO | Feedback: good
+2025-09-30 00:36:15,555 | INFO | Use pytorch device_name: cpu
+2025-09-30 00:36:15,555 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 00:36:20,249 | INFO | Bot initialized with document
+2025-09-30 00:36:37,746 | INFO | Feedback: good
+2025-09-30 00:36:48,366 | INFO | Feedback: good
+2025-09-30 00:37:04,065 | INFO | Feedback: good
+2025-09-30 00:37:19,004 | INFO | Feedback: good
+2025-09-30 00:37:31,779 | INFO | Feedback: good
+2025-09-30 00:38:45,477 | INFO | Feedback: good
+2025-09-30 00:39:06,741 | INFO | Feedback: good
+2025-09-30 00:39:24,239 | INFO | Feedback: good
+2025-09-30 00:39:44,290 | INFO | Feedback: good
+2025-09-30 01:08:00,583 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:08:00,583 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:08:05,073 | INFO | Bot initialized with document (sections + sentences)
+2025-09-30 01:08:17,699 | INFO | Feedback: good
+2025-09-30 01:08:25,780 | INFO | Feedback: good
+2025-09-30 01:08:32,729 | INFO | Feedback: too vague
+2025-09-30 01:08:54,007 | INFO | Feedback: good
+2025-09-30 01:09:10,754 | INFO | Feedback: good
+2025-09-30 01:09:48,287 | INFO | Feedback: good
+2025-09-30 01:13:33,681 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:13:33,682 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:13:38,648 | INFO | Bot initialized with document (sections + sentences)
+2025-09-30 01:14:14,672 | INFO | Feedback: good
+2025-09-30 01:14:21,979 | INFO | Feedback: good
+2025-09-30 01:14:28,146 | INFO | Feedback: good
+2025-09-30 01:14:54,468 | INFO | Feedback: good
+2025-09-30 01:15:03,453 | INFO | Feedback: good
+2025-09-30 01:15:10,471 | INFO | Feedback: too vague
+2025-09-30 01:16:00,174 | INFO | Feedback: good
+2025-09-30 01:16:10,279 | INFO | Feedback: good
+2025-09-30 01:16:55,689 | INFO | Feedback: good
+2025-09-30 01:17:03,955 | INFO | Feedback: good
+2025-09-30 01:24:30,877 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:24:30,877 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:24:35,292 | INFO | Bot initialized with hierarchical retrieval
+2025-09-30 01:24:42,131 | INFO | Feedback: good
+2025-09-30 01:24:53,159 | INFO | Feedback: good
+2025-09-30 01:25:01,188 | INFO | Feedback: good
+2025-09-30 01:25:09,625 | INFO | Feedback: too vague
+2025-09-30 01:25:23,523 | INFO | Feedback: good
+2025-09-30 01:25:39,130 | INFO | Feedback: good
+2025-09-30 01:25:48,878 | INFO | Feedback: good
+2025-09-30 01:35:40,042 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:35:40,042 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:35:44,749 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:38:09,229 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:38:09,229 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:38:15,174 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:41:46,529 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:41:46,529 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:41:52,153 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:44:38,717 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:44:38,717 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:44:44,232 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:46:39,053 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:46:39,053 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:46:44,488 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:47:17,504 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:47:17,504 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:47:22,174 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:53:21,055 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:53:21,055 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:53:26,410 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 01:56:11,672 | INFO | Use pytorch device_name: cpu
+2025-09-30 01:56:11,672 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 01:56:16,152 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:02:24,840 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:02:24,841 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:02:29,428 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:02:35,632 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: too vague
+2025-09-30 02:02:35,647 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: not helpful
+2025-09-30 02:02:52,016 | INFO | Query: How do I fly to the moon? | Confidence too low (0.02)
+2025-09-30 02:03:08,491 | INFO | Query: How can I contact someone for help? | Iteration: 1 | Feedback: good
+2025-09-30 02:03:19,222 | INFO | Query: What about the refund Policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:03:56,381 | INFO | Query: Too vague | Confidence too low (0.04)
+2025-09-30 02:06:44,737 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:06:44,751 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 02:06:47,144 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 02:06:49,187 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: too vague
+2025-09-30 02:06:49,199 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 02:10:06,760 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:17:43,903 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:17:43,903 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:17:48,469 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:17:56,965 | INFO | Query: How to contact support? | Iteration: 1 | Feedback: good
+2025-09-30 02:18:16,918 | INFO | Query: DO you have refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:20:49,417 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:20:49,417 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:20:54,523 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:21:06,591 | INFO | Query: How can I contact  support? | Iteration: 1 | Confidence: 0.54
+2025-09-30 02:21:06,591 | INFO | Query: How can I contact  support? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:21:06,604 | INFO | Query: How can I contact  support? | Iteration: 2 | Confidence: 0.54
+2025-09-30 02:21:06,604 | INFO | Query: How can I contact  support? | Iteration: 2 | Feedback: good
+2025-09-30 02:25:52,150 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:25:52,150 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:25:57,419 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:26:10,509 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:26:10,509 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:26:15,237 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:26:30,439 | INFO | Query: HOw can I contact support? | Iteration: 1 | Feedback: good
+2025-09-30 02:26:55,112 | INFO | Query: Do you have policy of refund? | Iteration: 1 | Feedback: good
+2025-09-30 02:31:16,127 | INFO | Query: How can I reset the password? | Iteration: 1 | Feedback: good
+2025-09-30 02:38:40,574 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:38:40,574 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:38:45,195 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:38:57,004 | INFO | Query: How can I reset my password? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:38:57,058 | INFO | Query: How can I reset my password? | Iteration: 2 | Feedback: not helpful
+2025-09-30 02:39:26,913 | INFO | Query: How can I get the refund? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:39:26,967 | INFO | Query: How can I get the refund? | Iteration: 2 | Feedback: not helpful
+2025-09-30 02:43:10,067 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:43:10,067 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:43:14,728 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:43:24,890 | INFO | Query: How can I reset password? | Iteration: 1 | Feedback: good
+2025-09-30 02:43:36,680 | INFO | Query: How can I get the refund? | Iteration: 1 | Feedback: good
+2025-09-30 02:43:46,705 | INFO | Query: Refund policy? | Iteration: 1 | Feedback: too vague
+2025-09-30 02:43:46,758 | INFO | Query: Refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 02:44:05,514 | INFO | Query: How do I fly to the moon? | Confidence too low (-0.00)
+2025-09-30 02:44:12,529 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:44:31,654 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:44:31,654 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:44:37,415 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:44:39,209 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:44:52,263 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 02:45:11,317 | INFO | Query: How do I fly to the moon? | Iteration: 1 | Feedback: good
+2025-09-30 02:47:56,062 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:47:56,063 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:48:02,984 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:51:07,411 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:51:07,412 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:51:12,813 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:51:17,290 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 02:51:26,543 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:51:26,556 | INFO | Query: What’s the refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 02:52:14,149 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:52:14,149 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:52:19,307 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:52:22,399 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 02:52:22,413 | INFO | Query: What’s the refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 02:54:51,859 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:54:58,170 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:54:58,170 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:55:03,736 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:55:05,808 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 02:56:39,899 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:56:39,899 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 02:56:46,313 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 02:56:51,164 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 02:57:00,423 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: too vague
+2025-09-30 02:57:00,436 | INFO | Query: What’s the refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 02:57:12,856 | INFO | Query: Where I can get the help from? | Iteration: 1 | Feedback: good
+2025-09-30 02:59:56,070 | INFO | Use pytorch device_name: cpu
+2025-09-30 02:59:56,070 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:00:01,644 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:00:08,548 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:00:08,568 | INFO | Query: What’s the refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 03:00:21,899 | INFO | Query: How can I contact support? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:00:21,910 | INFO | Query: How can I contact support? | Iteration: 2 | Feedback: good
+2025-09-30 03:00:32,141 | INFO | Query: How can I get the help from? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:00:32,154 | INFO | Query: How can I get the help from? | Iteration: 2 | Feedback: good
+2025-09-30 03:00:45,500 | INFO | Query: CAn I reset my password? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:00:45,513 | INFO | Query: CAn I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 03:05:23,123 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:05:23,123 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:05:28,579 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:10:25,767 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:10:25,767 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:10:31,384 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:10:35,821 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:10:35,860 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: too vague
+2025-09-30 03:10:50,542 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:11:00,417 | INFO | Query: How do I fly to the moon? | Confidence too low (0.15)
+2025-09-30 03:11:15,420 | INFO | Query: Refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:11:15,434 | INFO | Query: Refund policy? | Iteration: 2 | Feedback: too vague
+2025-09-30 03:11:31,323 | INFO | Query: CAn I get a refund policy? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:11:31,341 | INFO | Query: CAn I get a refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 03:14:23,260 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:14:23,260 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:14:28,936 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:14:45,476 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:14:45,476 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:14:50,145 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:14:54,395 | INFO | Query: "How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 03:15:09,400 | INFO | Query: How Can I get a Refund? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:15:09,438 | INFO | Query: How Can I get a Refund? | Iteration: 2 | Feedback: good
+2025-09-30 03:15:22,912 | INFO | Query: Do you have a refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:15:34,307 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:15:34,307 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:15:39,463 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:15:39,508 | INFO | Query: Do you have a refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:15:42,177 | INFO | Query: Do you have a refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:15:54,366 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:15:54,366 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:15:59,153 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:16:04,014 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:16:04,014 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:16:08,677 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:16:08,725 | INFO | Query: Do you have a refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:16:19,517 | INFO | Query: How do I fly to the moon? | Confidence too low (0.02)
+2025-09-30 03:19:52,300 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:19:52,300 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:19:57,254 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:20:05,404 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:20:05,420 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 03:20:23,416 | INFO | Query: Do they have refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:20:35,114 | INFO | Query: CAn I get a refund? | Iteration: 1 | Feedback: good
+2025-09-30 03:20:43,877 | INFO | Query: How do I fly to the moon? | Confidence too low (0.02)
+2025-09-30 03:26:30,800 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 03:32:47,031 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:32:47,031 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:32:57,060 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:33:05,551 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:33:05,551 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:33:15,682 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:33:24,537 | INFO | Query: How do I reset my password? | Iteration: 1 | Confidence: 0.77
+2025-09-30 03:33:24,537 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:33:24,579 | INFO | Query: How do I reset my password? | Iteration: 2 | Confidence: 0.77
+2025-09-30 03:33:24,579 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 03:34:17,864 | INFO | Query: What’s the refund policy? | Iteration: 1 | Confidence: 0.61
+2025-09-30 03:34:17,864 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:34:17,913 | INFO | Query: What’s the refund policy? | Iteration: 2 | Confidence: 0.61
+2025-09-30 03:34:17,913 | INFO | Query: What’s the refund policy? | Iteration: 2 | Feedback: good
+2025-09-30 03:34:28,796 | INFO | Query: How do I fly to the moon? | Confidence too low (0.02)
+2025-09-30 03:34:44,928 | INFO | Query: Can I reset my password? | Iteration: 1 | Confidence: 0.71
+2025-09-30 03:34:44,928 | INFO | Query: Can I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 03:37:44,079 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:37:44,079 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:37:53,304 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:38:00,517 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:38:00,530 | INFO | Query: How do I reset my password? | Iteration: 2 | Feedback: good
+2025-09-30 03:38:26,275 | INFO | Query: How about the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:38:56,541 | ERROR | Error during query handling: 'SupportBotAgent' object has no attribute 'extract_best_sentence'
+2025-09-30 03:39:10,493 | INFO | Query: How about the refund policy? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:39:10,513 | INFO | Query: How about the refund policy? | Iteration: 2 | Feedback: too vague
+2025-09-30 03:39:23,179 | ERROR | Error during query handling: 'SupportBotAgent' object has no attribute 'extract_best_sentence'
+2025-09-30 03:39:44,305 | INFO | Query: How can I get the support team? | Iteration: 1 | Feedback: good
+2025-09-30 03:39:55,171 | ERROR | Error during query handling: 'SupportBotAgent' object has no attribute 'extract_best_sentence'
+2025-09-30 03:45:37,170 | INFO | Use pytorch device_name: cpu
+2025-09-30 03:45:37,171 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-30 03:46:20,996 | INFO | Bot initialized with document and chunked by headings
+2025-09-30 03:46:28,212 | INFO | Query: How do I reset my password? | Iteration: 1 | Feedback: good
+2025-09-30 03:46:36,534 | INFO | Query: What’s the refund policy? | Iteration: 1 | Feedback: good
+2025-09-30 03:47:00,613 | INFO | Query: Where can I get the help from? | Iteration: 1 | Feedback: good
+2025-09-30 03:47:12,585 | INFO | Query: How can I get the support team? | Iteration: 1 | Feedback: good
+2025-09-30 03:47:37,535 | INFO | Query: Can I get the contact info of the team? | Confidence too low (0.26)
+2025-09-30 03:47:52,057 | INFO | Query: Can I get the contact info of the support team? | Iteration: 1 | Feedback: good
+2025-09-30 03:48:24,930 | INFO | Query: from whom can I get the help from? | Iteration: 1 | Feedback: too vague
+2025-09-30 03:48:25,067 | INFO | Query: from whom can I get the help from? | Iteration: 2 | Feedback: good
+2025-09-30 03:48:35,718 | INFO | Query: Contact details? | Iteration: 1 | Feedback: good
+2025-09-30 03:49:48,718 | INFO | Query: from whom can I get the help from? | Iteration: 1 | Feedback: good
+2025-09-30 03:49:53,858 | INFO | Query: from whom can I get the help from? | Iteration: 1 | Feedback: not helpful
+2025-09-30 03:49:53,928 | INFO | Query: from whom can I get the help from? | Iteration: 2 | Feedback: too vague
+2025-09-30 03:49:57,673 | INFO | Query: from whom can I get the help from? | Iteration: 1 | Feedback: good
+2025-09-30 03:50:14,887 | INFO | Query: from where can I get the help from? | Iteration: 1 | Feedback: good
+2025-09-30 03:50:38,866 | INFO | Query: Who knows about my cash refund? | Iteration: 1 | Feedback: good
