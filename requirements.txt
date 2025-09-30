@@ -5,7 +5,7 @@ streamlit==1.26.0
 # NLP / Embeddings
 torch==2.1.0
 sentence-transformers==2.2.2
-transformers==4.41.0
+transformers==4.25.1
 
 # PDF processing
 PyPDF2>=3.0.0,<3.2.0
@@ -15,7 +15,7 @@ numpy==1.26.0
 regex>=2023.1.0,<2025.0.0
 rich==13.3.5
 
-huggingface_hub>=0.23.0,<1.0
+huggingface_hub==0.13.4
 tqdm
 scikit-learn
 scipy
@@ -23,6 +23,7 @@ nltk
 sentencepiece
 
 # Optional: if you use logging or other standard Python libraries, no need to include them
+
 
 
 
